@@ -1,8 +1,14 @@
 body {
-     background-color: darkcyan
+     background-color: darkcyan;
 }
 p {
-   font-family: "sans-serif"     
-   
-background-color: aquamarine 
+   font-family: "sans-serif";
+   background-color:aquamarine;
+   color:#000066; font:"sans-serif" 
+    }
+
+
+
+footer{
+    background-color: yellow;
 }
