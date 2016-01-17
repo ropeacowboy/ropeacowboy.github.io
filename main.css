@@ -1,11 +1,17 @@
 body {
      background-color: darkcyan;
+    font-family: 'Arial Black','Arial Bold',sans-serif;
+    color: white; 
 }
+
 p {
-   font-family: "sans-serif";
+   font-family: 'Times New Roman',serif;
    background-color:aquamarine;
-   color:#000066; font:"sans-serif" 
+
     }
+nav{
+    background-color:red;
+}
 
 
 
