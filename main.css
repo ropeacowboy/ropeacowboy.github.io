@@ -10,6 +10,7 @@ p {
     color:darkblue;
 
     }
+
 nav{
     background-color:red;
 }
@@ -22,4 +23,5 @@ header{
 
 footer{
     background-color: yellow;
+    color:green;
 }
