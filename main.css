@@ -5,10 +5,11 @@ body {
 }
 
 #content {
+    margin: 0 auto;
     background-color:black;
     width: 700px;
     padding:20px 10px 30px;
-    margin: 0; 
+    
 }
 
 p {
