@@ -4,6 +4,12 @@ body {
     color: white; 
 }
 
+#content {
+    background-color:black;
+    width;800px 
+    padding:20px,10px,30px;
+}
+
 p {
 
    background-color:aquamarine;
