@@ -6,9 +6,9 @@ body {
 
 #content {
     background-color:black;
-    width: 600px;
+    width: 700px;
     padding:20px 10px 30px;
-    margin: 0 auto; 
+    margin: 0; 
 }
 
 p {
