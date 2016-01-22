@@ -9,7 +9,7 @@ body {
     background-color:darkcyan;
     width: 900px;
     padding:20px 10px 30px;
-    margin: 120px;
+    margin: -120px;
 }
 
 p {
