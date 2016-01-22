@@ -1,12 +1,12 @@
 body {
-     background-color: darkcyan;
+     background-color: black;
     font-family: 'Arial Black','Arial Bold',sans-serif;
     color: white; 
 }
 
 #content {
     margin: 0 auto;
-    background-color:black;
+    background-color:darkcyan;
     width: 900px;
     padding:20px 10px 30px;
     
@@ -16,6 +16,7 @@ p {
 
    background-color:aquamarine;
     color:darkblue;
+    padding: 8px; 
 
     }
 
