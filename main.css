@@ -11,6 +11,8 @@ body {
     width: 900px;
     padding:20px 10px 30px;
     color:black;
+    border:2px dashed;
+    border-color:white;
    
 }
 
