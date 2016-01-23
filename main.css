@@ -18,6 +18,9 @@ body {
    
 }
 
+.content
+    margin:0 auto; 
+
 #paragraphs {
 
    background-color:aquamarine;
