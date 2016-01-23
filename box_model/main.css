@@ -20,10 +20,19 @@ body{
 #container{
     border:1px dotted; 
     border-color:black;
-    padding:100px 60px;
+    padding:10px 10px;
 }
 
 #bottom-links {
+    background-color:lightgray;
+    color:black;
     border:1px dotted;
     border-color:black;
+    padding:5px 5px;
+}
+
+#content{
+    font-faimily:'Arial Black','Arial Bold','sans-serif';
+    color:black;
+    padding:5px 5px;
 }
