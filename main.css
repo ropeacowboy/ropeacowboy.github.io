@@ -6,7 +6,8 @@ body {
 }
 
 #content {
-    margin: 0;
+    margin-left:auto;
+    margin-right:auto;
     
     background-color:darkcyan;
     width: 900px;
