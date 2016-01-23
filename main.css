@@ -6,7 +6,8 @@ body {
 }
 
 #content {
-    margin: 0 auto;
+    margin: 0;
+    
     background-color:darkcyan;
     width: 900px;
     padding:20px 10px 30px;
