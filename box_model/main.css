@@ -6,6 +6,7 @@ body{
     width:800px;
     margin-left:auto;
     margin-right:auto;
+    padding:10px;
    
 }
 
@@ -17,6 +18,11 @@ body{
     padding:10px;
 }
 #container{
-    border:2px dashed; 
+    border:1px dotted; 
+    border-color:black;
+}
+
+#bottom-links {
+    border:1px dotted;
     border-color:black;
 }
