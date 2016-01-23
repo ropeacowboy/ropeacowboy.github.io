@@ -8,3 +8,10 @@ body{
     margin-right:auto;
    
 }
+
+#headline{
+    
+    background-color:gray;
+    font-weight:bold;
+    padding:10px;
+}
