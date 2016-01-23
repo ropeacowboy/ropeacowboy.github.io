@@ -2,7 +2,7 @@ body {
      background-color: lightcyan;
     font-family: 'Arial Black','Arial Bold',sans-serif;
     color: white; 
-    width:900px
+    
 }
 
 
@@ -28,6 +28,7 @@ body {
     border-color:darkblue; 
 
     }
+
 p {
     text-indent:10px;
 
