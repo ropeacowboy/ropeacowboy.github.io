@@ -36,6 +36,8 @@ p {
 
 nav{
     background-color:red;
+    font-family:'Arial Black','Arial Bold',sans-serif;
+    font-size:36px
     color:aqua; 
 }
 
