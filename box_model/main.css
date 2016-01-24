@@ -9,7 +9,9 @@ body{
    
 }
  
-#navigation ul{
+#navigation{
+    float:left;
+    margin-left:-10px;
     
 }
 
