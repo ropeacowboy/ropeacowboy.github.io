@@ -40,6 +40,10 @@ body{
     color:black;
 }
 
+#bottom-links li, p{
+    margin:20px;
+}
+
 #content{
     font-faimily:'Arial Black','Arial Bold','sans-serif';
     color:black;
