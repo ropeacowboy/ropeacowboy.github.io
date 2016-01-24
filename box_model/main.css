@@ -41,15 +41,12 @@ img{
     border:1px dotted;
     border-color:black;
     padding:5px 5px;
+    margin:10px
 }
 
-#image{
-    background-color:lightblue;
-    border:1px dotted;
-    border-color:black;
-    padding:10px 10px;
+
     
-}
+
 
 p{
     padding-left:50px;
