@@ -18,8 +18,8 @@ body{
 }
 
 #navigation a:hover{
-    background-color:black;
-    color:white;
+    background-color:darkslateblue;
+    color:lightsteelblue;
 }
 
 #headline {
