@@ -20,14 +20,13 @@ body{
     font-family:'Comic Sans HC',sans-serif;
     padding:10px 20px;
     border-radius:5px;
-    margin-right:-4px;
+    margin-right:-8px;
     
 }
 
 #navigation a:hover{
     background-color:black;
     color:lightsteelblue;
-    font-style:italic;
 }
 
 #headline {
@@ -63,6 +62,7 @@ body{
 }
 #bottom-links a:hover{
     color:black;
+    font-style:italic;
     
 }
 
