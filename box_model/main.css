@@ -17,6 +17,7 @@ body{
     font-weight:bold;
     padding:10px 10px;
 }
+
 #container{
     border:1px dotted; 
     border-color:black;
@@ -31,7 +32,7 @@ body{
     padding:5px 5px;
 }
 
-#bottomlinks #navigation{
+#bottomlinks nav{
     background color:white;
     color:red;
 }
