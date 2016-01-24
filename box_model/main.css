@@ -10,9 +10,10 @@ body{
 }
 #navigation a{
     text-decoration:none;
-    background-color:cadetblue;
+    background-color:steelblue;
     color:white;
     font-family:'Comic Sans',sans-serif;
+    padding:10px 20px;
     
 }
 
