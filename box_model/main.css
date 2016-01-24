@@ -27,7 +27,8 @@ body{
     
     background-color:#e6e6e6;
     color:black;
-    font-weight:bold;
+    font-weight:bolder;
+    font-family:'Arial Black','Arial Bold','sans-serif';
     padding:20px 20px;
 }
 
