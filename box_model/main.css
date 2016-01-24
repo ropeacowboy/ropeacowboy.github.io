@@ -56,7 +56,7 @@ body{
 #content{
     font-faimily:'Arial Black','Arial Bold','sans-serif';
     color:black;
-    margin:5px 0px 10px 0px
+    padding:0;
 }
 
 img{
