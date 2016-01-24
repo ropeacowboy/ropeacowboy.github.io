@@ -35,8 +35,19 @@ p {
 nav{
     background-color:red;
     font-family:'Arial Black','Arial Bold',sans-serif;
-    font-size:72px;
+    font-size:36px;
     color:aqua; 
+}
+
+nav a{
+    text-decoration:none;
+    bakground color:darkturquoise;
+    color:paleturquoise
+}
+
+nav a:hover{
+    background-color:paleturquoise
+    color:white;
 }
 
 header{
