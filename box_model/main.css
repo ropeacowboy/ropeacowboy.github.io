@@ -34,6 +34,9 @@ body{
 
 #bottom-links a{
     text-decoration:none;
+    color:lightslategray;
+}
+#bottom-links a:hover{
     color:black;
 }
 
