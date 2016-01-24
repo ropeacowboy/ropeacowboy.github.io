@@ -31,6 +31,11 @@ body{
     padding:5px 5px;
 }
 
+#bottomlinks a{
+    background color:white;
+    color:slategray;
+}
+
 #content{
     font-faimily:'Arial Black','Arial Bold','sans-serif';
     color:black;
@@ -63,4 +68,8 @@ li{
 
 h1,h2,h3{
     margin:0;
+}
+
+#headline, #bottom-links{
+    font-size:26px;
 }
