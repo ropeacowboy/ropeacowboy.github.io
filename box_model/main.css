@@ -8,6 +8,11 @@ body{
     margin-right:auto;    
    
 }
+ 
+#navigation{
+    padding:0;
+}
+
 #navigation a{
     text-decoration:none;
     background-color:steelblue;
