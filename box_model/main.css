@@ -26,6 +26,7 @@ body{
 #navigation a:hover{
     background-color:black;
     color:lightsteelblue;
+    font-style:oblique;
 }
 
 #headline {
