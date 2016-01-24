@@ -17,6 +17,7 @@ body{
     font-weight:bold;
     padding:10px 10px;
 }
+
 #container{
     border:1px dotted; 
     border-color:black;
@@ -45,14 +46,16 @@ img{
     margin-left:10px;
 }
 
-
-    
-
-
-p{
-   
+ul{
+    list-style-type:none;
+    padding:0;
 }
 
 h1,h2,h3{
     margin:0;
 }
+
+li{
+    float:left;
+}
+
