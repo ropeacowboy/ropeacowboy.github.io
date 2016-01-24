@@ -41,7 +41,8 @@ img{
     border:1px dotted;
     border-color:black;
     padding:5px 5px;
-    margin:10px
+    margin-right:10px;
+    margin-left:10px;
 }
 
 
@@ -49,7 +50,7 @@ img{
 
 
 p{
-    padding-left:50px;
+   
 }
 
 h1,h2,h3{
