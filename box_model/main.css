@@ -9,15 +9,15 @@ body{
    
 }
  
-#navigation{
-    padding:0;
+#navigation ul{
+    
 }
 
 #navigation a{
     text-decoration:none;
     background-color:steelblue;
     color:white;
-    font-family:'Comic Sans',sans-serif;
+    font-family:'Comic Sans HC',sans-serif;
     padding:10px 20px;
     border-radius:5px;
     
@@ -33,7 +33,8 @@ body{
     background-color:#e6e6e6;
     color:black;
     font-weight:bold;
-    font-family:'Arial Black','Arial Bold','sans-serif';
+    font-family:'Tahoma','Arial','sans-serif';
+    font-weight:bolder;
     padding:20px 20px;
 }
 
