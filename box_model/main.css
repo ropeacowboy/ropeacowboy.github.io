@@ -45,9 +45,13 @@ body{
 
 #bottom-links p{
     font-size:30px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:8px;
+    margin-bottom:0;
 }
 
-#bottom-links ul,li, p{
+#bottom-links ul,li{
     margin-left:10px;
     margin-right:10px;
     margin-top:8px;
