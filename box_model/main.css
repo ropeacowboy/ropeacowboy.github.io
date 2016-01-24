@@ -32,9 +32,9 @@ body{
     padding:5px 5px;
 }
 
-nav{
-    background color:white;
-    color:lightslategray;
+#bottom links a{
+    text-decoration:none;
+    color:black;
 }
 
 #content{
