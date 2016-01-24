@@ -31,7 +31,7 @@ body{
     padding:5px 5px;
 }
 
-#bottomlinks a{
+#bottomlinks #navigation{
     background color:white;
     color:red;
 }
