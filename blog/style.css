@@ -2,17 +2,23 @@ body{
     background-color:black;
     color:blueviolet;
     font-family:'Helvetica', sans-serif;
+    font-weight:bold;
 }
 
 #container{
-    width:950px;
+    width:1000px;
     margin:0 auto;
-    border-left:1px solid;
-    border-right:1px solid;
-    border-color:dimgray;
+ 
 }
 
 header{
-    font-weight:bold;
     color:white;
+    font-weight:bolder
+}
+
+#content{
+    border-left:1px solid;
+    border-right:1px solid;
+    border-color:darkslategrey;
+    min-height: 800px;
 }
