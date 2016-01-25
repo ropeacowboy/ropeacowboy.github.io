@@ -21,6 +21,10 @@ header{
     padding:0;
 }
 
+li.listnav{
+    list-style-type:none;
+}
+
 #content{
     border-left:1px solid;
     border-right:1px solid;
