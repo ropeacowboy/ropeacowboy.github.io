@@ -21,7 +21,11 @@ header{
     padding:0;
 }
 
-ul.sub1{
+#listnav li{
+    display:inline-block;
+}
+
+li.sub1{
     list-style-type:none;
 }
 
