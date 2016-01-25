@@ -1,4 +1,17 @@
 body{
     background-color:black;
+    color:blueviolet;
+    font-family:'Helvetica', sans-serif;
+}
+
+#container{
+    width:950px;
+    border-left:1px solid;
+    border-right:1px solid;
+    border-color:darkgray;
+}
+
+header{
+    font-weight:bold;
     color:white;
 }
