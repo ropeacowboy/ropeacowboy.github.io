@@ -16,9 +16,22 @@ header{
     font-weight:bolder
 }
 
+#navigation ul{
+    display:inline-block;
+    
+}
+
+#navigation ul ul li{
+    visibility:hidden;
+}
+
+#navigation ul ul li hover: ul{
+    visibility:visible;
+}
+
 #content{
     border-left:1px solid;
     border-right:1px solid;
-    border-color:darkslategrey;
+    border-color:#151515;
     min-height: 800px;
 }
