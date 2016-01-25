@@ -16,20 +16,9 @@ header{
     font-weight:bolder
 }
 
-#navigation ul{
-    display:inline-block;
-    text-decoration:none;
-    
-}
-
-#navigation ul ul {
-    visibility:hidden;
-    text-decoration:none;
-    
-}
-
-#navigation ul ul hover: ul{
-    visibility:visible;
+#listnav ul{
+    list-style-type:none;
+    padding:0;
 }
 
 #content{
