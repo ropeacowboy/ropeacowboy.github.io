@@ -18,14 +18,17 @@ header{
 
 #navigation ul{
     display:inline-block;
+    text-decoration:none;
     
 }
 
-#navigation ul ul li{
+#navigation ul ul {
     visibility:hidden;
+    text-decoration:none;
+    
 }
 
-#navigation ul ul li hover: ul{
+#navigation ul ul hover: ul{
     visibility:visible;
 }
 
