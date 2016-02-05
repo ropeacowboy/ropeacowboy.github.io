@@ -7,3 +7,9 @@ h1,h2,h3
    
     margin:0;
 }
+
+.branding{
+    background: black;
+    width: 150px;
+    height:145px;
+}
