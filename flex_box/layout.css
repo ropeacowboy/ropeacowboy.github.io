@@ -15,8 +15,9 @@ h1,h2,h3
 }
 
 nav a{ 
-    background-color:white;
-    border:1px;
+    display:inline-block;
+    background:gray;
+    border:1px solid;
     border-color:black;
     border-radius:8px;
     padding:10px;
