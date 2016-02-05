@@ -3,5 +3,6 @@ body {
 }
 
 h1,h2,h3{
-    padding:0 auto;
+    padding:0px;
+    margins:0px;
 }
