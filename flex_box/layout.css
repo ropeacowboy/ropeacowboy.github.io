@@ -11,5 +11,12 @@ h1,h2,h3
 .branding{
     background: black;
     width: 150px;
-    height:145px;
+    height:150px;
 }
+
+nav a{ 
+    background-color:white;
+    border:1px;
+    border-color:black;
+    border-radius:8px;
+    padding:10px;
