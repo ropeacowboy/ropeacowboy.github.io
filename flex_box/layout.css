@@ -23,3 +23,12 @@ nav a{
     border-radius:20px;
     padding:10px 30px 10px 30px;
     text-decoration:none;
+    
+.main-container
+    {
+    width:900px;
+}
+    
+*{
+    box-sizing:border-box;
+}
