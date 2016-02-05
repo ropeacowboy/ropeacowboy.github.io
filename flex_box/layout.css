@@ -1,5 +1,14 @@
+*{
+    box-sizing:border-box;
+}
+
+
 body { 
     background-color:lightcyan;
+}
+
+header {
+    display: flex;
 }
 
 h1,h2,h3
@@ -11,8 +20,8 @@ h1,h2,h3
 .branding{
     background: black;
     width: 150px;
-    height:20px;
-    margin-left:auto;
+    height:30px;
+    margin-right:auto;
 }
 
 nav a{ 
@@ -23,13 +32,14 @@ nav a{
     border-radius:20px;
     padding:10px 30px 10px 30px;
     text-decoration:none;
-    margin-right:auto;
+    margin-left:auto;
     
 .main-container
     {
     width:900px;
 }
     
-*{
-    box-sizing:border-box;
+
+#big-promo{
 }
+        
