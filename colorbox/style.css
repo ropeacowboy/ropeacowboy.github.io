@@ -24,7 +24,7 @@
 
 /*These are the rules for "section2" layout.*/
 #section2{
-    display:inline;
+    flex-direction:column;
     
 }
 /*Rules for "section2" layout end.*/
