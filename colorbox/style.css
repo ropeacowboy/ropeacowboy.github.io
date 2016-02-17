@@ -33,6 +33,7 @@ body {
     display:flex;
     display:block;
     margin:65px;
+    margin:auto;
     
     width:960px;
     min-height:560px;
