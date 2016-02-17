@@ -16,13 +16,14 @@ header{
     font-weight:bolder
 }
 
-#listnav ul{
-    list-style-type:none;
-    padding:0;
+nav a{
+    
+    float:left;
+    padding:10px;
 }
 
-ul.sub1{
-    list-style-type:none;
+nav li{
+    float:none;
 }
 
 #content{
