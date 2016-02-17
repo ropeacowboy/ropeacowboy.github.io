@@ -1,6 +1,6 @@
 
 body {
-    background-color:white;
+    background-color:mediumaquamarine;
     
 }
 
@@ -28,10 +28,11 @@ body {
 /*Ends here for boxes.*/
 
 
-.section{
+#section1,#section2,#section3{
     /*This is to organize the layout in the assignment.*/
     display:flex;
     display:block;
+    margin:65px;
     
     width:960px;
     min-height:560px;
