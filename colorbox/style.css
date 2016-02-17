@@ -1,10 +1,10 @@
 /*These are the rules for "section1" layout.*/
-#section1 #redbox{
+ #redbox{
     position:absolute;
     top:0;
     left:0;
 }
-#section1 #greenbox{
+ #greenbox{
     position:absolute;
     top:0;
     right:0;
