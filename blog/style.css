@@ -5,6 +5,10 @@ body{
     font-weight:bold;
 }
 
+h1,h2{
+    padding:0px;
+}
+
 #container{
     width:1000px;
     margin:0 auto;
@@ -24,6 +28,8 @@ nav a{
 
 nav li{
     float:none;
+    visibility:hidden;
+    text-decoration:none;
 }
 
 #content{
