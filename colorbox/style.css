@@ -1,8 +1,21 @@
-
-body {
-    background-color:mediumaquamarine;
-    
+/*These are the rules for "section1" layout.*/
+#section1 #redbox{
+    position:absolute;
+    top:0;
+    left:0;
 }
+#section1 #greenbox{
+    position:absolute;
+    top:0;
+    right:0;
+}
+/*Rules for "section1" layout end.*/
+
+
+
+
+
+
 
 /*This is the basic stuff for the orginal box sizing and colors.*/
 #redbox,#yellowbox, #greenbox, #bluebox{
@@ -30,6 +43,9 @@ body {
 
 
 /*This is to organize the layout in the assignment.*/
+body {
+    background-color:white;   
+}
 #section1,#section2,#section3{
  
     display:flex;
