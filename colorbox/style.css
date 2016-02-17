@@ -9,6 +9,16 @@
     top:0;
     right:0;
 }
+#section1 #bluebox{
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+#section1 #yellowbox{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
 /*Rules for "section1" layout end.*/
 
 
