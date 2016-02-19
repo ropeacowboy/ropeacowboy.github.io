@@ -24,14 +24,9 @@
 
 /*These are the rules for "section2" layout.*/
 #section2{
-    flex-direction:row-reverse;
-    display:
-
+    display:inline;
     
 }
-
-
-
 /*Rules for "section2" layout end.*/
 
 
@@ -72,7 +67,6 @@ body {
 #section1,#section2,#section3{
  
     display:flex;
-    flex-direction:row;
     display:block;
     position:relative;
     margin:65px;
@@ -87,11 +81,8 @@ body {
 }
 
 #contentshell{
-    display:flex;
-    display:row; 
-    justify-content:center;
-    align-items: center;
-    display:relative;
+    
+    margin:0 auto;
 }
 
 /*Assignment organiziation ends here.*/
