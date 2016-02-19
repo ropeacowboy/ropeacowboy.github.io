@@ -24,7 +24,7 @@
 
 /*These are the rules for "section2" layout.*/
 #section2{
-    flex-direction:row-reverse;
+    flex-direction:column;
     display:
 
     
