@@ -73,7 +73,7 @@ body {
  
     display:flex;
     flex-direction:row;
-    /*display:block; What about this?*/
+    display:block; 
     position:relative;
     margin:65px;
 
@@ -88,9 +88,9 @@ body {
 
 #contentshell{
     display:flex;
-    /*display:row; 
-    align-content: flex-start; Is this the thing that's bugging it?
-    */
+    display:row; 
+    align-content: flex-start;
+    
     display:relative;
 }
 
