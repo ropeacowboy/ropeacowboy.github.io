@@ -24,26 +24,13 @@
 
 /*These are the rules for "section2" layout.*/
 #section2{
-    flex-direction:column;
-    position:relative;
+    flex-direction:row-reverse;
+
     
 }
-#section2 #redbox{
-    position:static;
-    flex-direction:column;
-}
-#section2 #greenbox{
-    position:static;
-    flex-direction:column;
-}
-#section2 #bluebox{
-    position:static;
-    flex-direction:column;
-}
-#section2 #yellowbox{
-    position:static;
-    flex-direction:column;
-}
+
+
+
 /*Rules for "section2" layout end.*/
 
 
