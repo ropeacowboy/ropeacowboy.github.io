@@ -88,7 +88,7 @@ body {
 
 #contentshell{
     display:flex;
-    display:row; 
+    display:column; 
     justify-content:center;
     align-items: center;
     display:relative;
