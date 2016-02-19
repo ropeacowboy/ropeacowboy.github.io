@@ -1,0 +1,20 @@
+#redbox,#yellowbox, #greenbox, #bluebox{
+    width:200px;
+    height:200px;
+}
+
+#redbox{
+    background-color:red;
+}
+
+#yellowbox{
+    background-color: yellow;
+}
+
+#greenbox{
+    background-color: green;
+}
+
+#bluebox{
+    background-color:blue;
+}
