@@ -22,10 +22,9 @@
 /*Rules for "section1" layout end.*/
 
 
-
 /*These are the rules for "section2" layout.*/
 #section2{
-    flex-direction:column;
+    flex-direction:row-reverse;
     display:
 
     
@@ -68,20 +67,19 @@
 
 /*This is to organize the layout in the assignment.*/
 body {
-    background-color:white; 
-    margin:0px;
+    background-color:white;   
 }
 #section1,#section2,#section3{
  
     display:flex;
     flex-direction:row;
-    display:block; 
+    display:block;
     position:relative;
-    padding:65px;
+    margin:65px;
 
     
     width:960px;
-    height:560px;
+    min-height:560px;
     
     background-color:white;
     border:4px solid;
@@ -90,10 +88,9 @@ body {
 
 #contentshell{
     display:flex;
-    flex-direction:row; 
-    align-content: flex-start;
-    
-    position:relative;
+    justify-content:center;
+    align-items: center;
+    display:relative;
 }
 
 /*Assignment organiziation ends here.*/
