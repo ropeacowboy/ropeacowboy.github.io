@@ -73,7 +73,7 @@ body {
  
     display:flex;
     flex-direction:row;
-    display:block;
+    /*display:block; What about this?*/
     position:relative;
     margin:65px;
 
