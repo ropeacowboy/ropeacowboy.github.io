@@ -88,8 +88,9 @@ body {
 
 #contentshell{
     display:flex;
-    display:row; 
-    align-content: flex-start;
+    /*display:row; 
+    align-content: flex-start; Is this the thing that's bugging it?
+    */
     display:relative;
 }
 
