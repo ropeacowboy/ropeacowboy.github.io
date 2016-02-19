@@ -67,7 +67,8 @@
 
 /*This is to organize the layout in the assignment.*/
 body {
-    background-color:white;   
+    background-color:white; 
+    margin:0px;
 }
 #section1,#section2,#section3{
  
@@ -78,8 +79,8 @@ body {
     padding:65px;
 
     
-    max-width:960px;
-    max-height:560px;
+    width:960px;
+    height:560px;
     
     background-color:white;
     border:4px solid;
@@ -88,10 +89,10 @@ body {
 
 #contentshell{
     display:flex;
-    display:row; 
+    flex-direction:row; 
     align-content: flex-start;
     
-    display:relative;
+    position:relative;
 }
 
 /*Assignment organiziation ends here.*/
