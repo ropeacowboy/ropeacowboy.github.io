@@ -1,0 +1,100 @@
+/*These are the rules for "section1" layout.*/
+#section1 .redbox{
+    position:absolute;
+    top:0;
+    left:0;
+}
+#section1 .greenbox{
+    position:absolute;
+    top:0;
+    right:0;
+}
+#section1 .bluebox{
+    position:absolute;
+    bottom:0;
+    left:0;
+}
+#section1 .yellowbox{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
+
+#section1 div {
+    width: 200px;
+    height: 200px;
+}
+
+/*Rules for "section1" layout end.*/
+
+
+/*These are the rules for "section2" layout.*/
+#section2 div {
+    flex: 1;
+}
+
+/*Rules for "section2" layout end.*/
+
+#section3{
+    background-color:beige;
+    padding:10px;
+}
+
+
+
+
+
+/*This is the basic stuff for the orginal box sizing and colors.*/
+#redbox,#yellowbox, #greenbox, #bluebox{
+/*
+    width:200px;
+    height:200px;
+*/
+}
+
+.redbox{
+    background-color:red;
+}
+
+.yellowbox{
+    background-color: yellow;
+}
+
+.greenbox{
+    background-color: green;
+}
+
+.bluebox{
+    background-color:blue;
+}
+/*Ends here for boxes.*/
+
+
+
+/*This is to organize the layout in the assignment.*/
+body {
+    background-color:white;   
+}
+#section1, #section2, #section3{
+ 
+    display:flex;
+    
+    position:relative;
+    margin:65px 0;
+
+    
+    width:960px;
+    min-height:560px;
+    
+    background-color:white;
+    border:4px solid;
+    border-color:black;   
+}
+
+#contentshell{
+    
+    margin:0 auto;
+    width:960px;
+}
+
+/*Assignment organiziation ends here.*/

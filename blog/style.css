@@ -5,6 +5,10 @@ body{
     font-weight:bold;
 }
 
+h1,h2,h3{
+    margin:0;
+}
+
 #container{
     width:1000px;
     margin:0 auto;
@@ -16,17 +20,25 @@ header{
     font-weight:bolder
 }
 
-#listnav ul{
-    list-style-type:none;
-    padding:0;
+nav a{
+    
+    display:inline;
+    padding:10px;
 }
 
+<<<<<<< HEAD
 #listnav li{
     display:inline-block;
 }
 
 li.sub1{
     list-style-type:none;
+=======
+nav li{
+    float:none;
+    visibility:hidden;
+    text-decoration:none;
+>>>>>>> origin/master
 }
 
 #content{
