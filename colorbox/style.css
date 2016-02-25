@@ -35,12 +35,24 @@
 
 /*Rules for "section2" layout end.*/
 
-#section3{
-    background-color:beige;
-    padding:10px;
+#bottompart{
+    max-width:960px;
+    min-height:175px;
+    max-height:215px;
+}
+
+#section3 .redbox{
+    align-items:stretch;
+    max-height: 120px;
+ 
+}
+#section3 .greenbox{
+    height:395px;
+    width:175px;
 }
 
 
+    
 
 
 
@@ -73,14 +85,17 @@
 
 /*This is to organize the layout in the assignment.*/
 body {
-    background-color:white;   
+    background-color:white; 
+    margin:0px;
 }
 #section1, #section2, #section3{
  
     display:flex;
+    margin:0px;
+
     
     position:relative;
-    margin:65px 0;
+   /* margin:65px 0;*/
 
     
     width:960px;
