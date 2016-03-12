@@ -74,9 +74,16 @@ header {
 }
 .promo-message 
 .pill-button{
+    background-color:white;
     color:#330000;
     text-shadow:none;
 }
+.pill-button:hover{
+    background-color:white;
+    color:orangered;
+    
+}
+
 
 /* Product Features */
 
