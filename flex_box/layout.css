@@ -57,13 +57,16 @@ header {
     width: 60%;
     padding: 50px;
     color:whitesmoke;
-    text-shadow:2px 1px #330000;  
+    text-shadow:2px 1px #330000;
+   
 }
 
  h1{
     font-size:36px;
+   font-family:'Kaushan Script', cursive;
     text-shadow:1px 0px white; 
      color:#300000
+
 }
 
 .promo-message p{
