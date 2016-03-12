@@ -1,5 +1,8 @@
 body{
     background-color:ghostwhite;
+    font-family: 'Montserrat', 'Helvetica', sans-serif;
+    color:white;
+
 }
 
 #container{
@@ -11,5 +14,21 @@ body{
     position:relative;
 }
 #header{
+    positon:relative;
     height:100px;
+    width:100%;
 }
+#navbar, #logo{
+    padding:40px;
+    
+}
+ #navbar a{
+    text-decoration:none;
+     color:white;
+    margin:5px;
+     text-shadow:1px 1px black;
+}
+#navbar a:hover{
+    color:lightblue;
+}
+
