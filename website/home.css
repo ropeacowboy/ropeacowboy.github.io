@@ -4,13 +4,17 @@ body{
     color:white;
 
 }
+h1,h2,h3{
+    margin:0;
+    padding:0;
+}
 
 #container{
     width:1000px;
     background-color:rebeccapurple;
     margin:0 auto;
     min-height:800px;
-    border-radius:40px;
+    border-radius:30px;
     position:relative;
 }
 #header{
@@ -62,6 +66,18 @@ body{
     margin: 0 auto;
     width:600px;
     
+}
+#promomessage h3{
+    text-align:center;
+    margin-top:40px;
+    font-size:20px;
+    
+
+}
+#promomessage h1{
+    text-align:center;
+    padding:60px 0px 60px 0px;
+    font-size:40px;
 }
 
     
