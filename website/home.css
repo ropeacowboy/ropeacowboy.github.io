@@ -4,11 +4,13 @@ body{
     color:white;
 
 }
-h1,h2,h3{
+h1,h2,h3,p{
     margin:0;
     padding:0;
 }
-
+a{
+    text-decoration:none;
+}
 #container{
     width:1000px;
     background-color:rebeccapurple;
@@ -80,5 +82,26 @@ h1,h2,h3{
     font-size:40px;
 }
 
+.button{
+    display:inline-block;
+    background-color:#ecb3ff;
+    color:purple;
+    font-family:cursive;
+    font-weight:800;
+    font-size:23px;
+    padding:8px 20px 8px 20px;
+    border-radius:10px;
+    border-top:4px solid;
+    border-left:2px solid;
+    border-color:white;
+    text-shadow:1px 1px gray;
     
+    
+    
+    
+}
+
+#promomessage .button{
+    
+}
 
