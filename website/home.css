@@ -18,9 +18,12 @@ body{
     height:100px;
     width:100%;
 }
-#navbar, #logo{
+#navbar{
     padding:40px;
     
+}
+#navbar{
+    float:left;
 }
  #navbar a{
     text-decoration:none;
@@ -31,4 +34,14 @@ body{
 #navbar a:hover{
     color:lightblue;
 }
+
+#logo img{
+    width:300px;
+    height:100%;
+    float:right;
+    padding:10px 20px
+   
+}
+
+    
 
