@@ -4,12 +4,13 @@
 
 body{
     background-color: whitesmoke;
+    font-family:cursive;
 }
 
 .main-container {
     width: 1000px;
     margin: 0 auto 0 auto;
-    font-family:'Helvetica','Arial Black',sans-serif;
+    font-family:cursive;
     font-weight:700;
 }
 
