@@ -94,14 +94,27 @@ a{
     border-top:4px solid;
     border-left:2px solid;
     border-color:white;
-    text-shadow:1px 1px gray;
-    
-    
+    text-shadow:1px 1px gray;   
     
     
 }
+.button a{
+    text-decoration:none;
+}
 
+.button:hover{
+  
+    background-color:#b3ccff;
+    color:white;
+  
+      
+    
+    
+}
 #promomessage .button{
+    position:absolute;
+    right:43%;
+    margin:40px;
     
 }
 
