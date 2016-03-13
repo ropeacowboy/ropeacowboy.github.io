@@ -25,6 +25,7 @@ a{
     box-sizing:border-box;
     border-radius:30px;
     position:relative;
+    display:block;
 }
 #header{
     positon:relative;
@@ -165,4 +166,9 @@ a{
     min-height:1000px;
     margin:0 auto;
 }
-
+#bottomtext{
+    ffloat:left;
+}
+#bottom img{
+    float:right;
+}
