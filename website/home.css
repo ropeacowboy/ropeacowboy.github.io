@@ -132,13 +132,14 @@ a{
 #featurecont{
     display:flex;
     position:relative;
-    position:absolute;
+      /*position:absolute;
+    left:0;
+    top:600px;*/
     width:100%;
     min-height:400px;
     background-color:rebeccapurple;
     margin:0 auto;
-    left:0;
-    top:600px;
+
     border-radius:15px;
 }
 .feature img{
@@ -165,6 +166,7 @@ a{
     width:100%;
     min-height:1000px;
     margin:0 auto;
+  
 }
 #bottomtext{
     ffloat:left;
