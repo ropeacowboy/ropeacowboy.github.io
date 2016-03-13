@@ -164,7 +164,7 @@ a{
     position:relative;
     color:white;
     width:100%;
-    min-height:1000px;
+    min-height:500px;
     margin:0 auto;
   
 }
@@ -174,13 +174,14 @@ a{
 #bottomtext{
     float:left;
     color:darkblue;
-    text-shadow:1px 2px aquamarine;
-    width:300px;
+    text-shadow:1px 1px black;
+    max-width:300px;
     margin:40px;
 }
 #bottomtext h4{
-    color:lightblue;
+    color:lightcyan;
     font-family:cursive;
+    text-shadow:none;
 }
 #bottom img{
     float:right;
