@@ -2,6 +2,8 @@ body{
     background-color:ghostwhite;
     font-family: 'Montserrat', 'Helvetica', sans-serif;
     color:white;
+    margin:0px;
+    padding:0px;
 
 }
 h1,h2,h3,p{
@@ -155,5 +157,12 @@ a{
 }
 .feature h1{
     margin:10px;
+}
+#bottom{
+    position:relative;
+    color:white;
+    width:100%;
+    min-height:1000px;
+    margin:0 auto;
 }
 
