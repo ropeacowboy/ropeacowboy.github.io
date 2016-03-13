@@ -11,11 +11,16 @@ h1,h2,h3,p{
 a{
     text-decoration:none;
 }
+#content{
+    margin:0;
+    padding:0px;
+}
+
 #container{
     width:1000px;
     background-color:rebeccapurple;
     margin:0 auto;
-    min-height:800px;
+    box-sizing:border-box;
     border-radius:30px;
     position:relative;
 }
@@ -54,6 +59,8 @@ a{
     height:475px;
     background-image:url("piano.jpeg");
     background-color:#262626;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
 }
 #promo img{
   
@@ -67,6 +74,7 @@ a{
 #promomessage{
     margin: 0 auto;
     width:600px;
+    
     
 }
 #promomessage h3{
@@ -115,6 +123,27 @@ a{
     position:absolute;
     right:43%;
     margin:40px;
+    
+}
+
+#featurecont{
+    display:flex;
+    position:absolute;
+    width:100%;
+    min-height:400px;
+    background-color:rebeccapurple;
+    margin:0 auto;
+    left:0;
+    top:600px;
+    border-radius:15px;
+}
+.feature{
+    background-color:white;
+    margin:10px;
+    margin-top:40px;
+    width:200px;
+    height:160px;
+    border-radius:140px;
     
 }
 
