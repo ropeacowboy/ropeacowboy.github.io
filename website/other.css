@@ -123,6 +123,7 @@ a{
     width:900px;
     margin:0 auto;
     padding:40px;
+    padding-bottom:10px;
     border-radius:10px;
 }
 #content p{
@@ -148,4 +149,15 @@ p{
     border-radius:500px;
     float:left;
     
+}
+#content nav{
+    text-align:center;
+}
+#content nav a{
+    text-decoration:none;
+    text-decoration:underline;
+    color:white;
+}
+#content nav a:hover{
+    color:lightcyan;
 }
