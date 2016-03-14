@@ -1,0 +1,42 @@
+body{
+    background-color:ghostwhite;
+    font-family: 'Montserrat', 'Helvetica', sans-serif;
+    color:white;
+    margin:0px;
+    padding:0px;
+
+}
+h1,h2,h3,h5,h6,p{
+    margin:0;
+    padding:0;
+}
+#container{
+    width:1000px;
+    background-color:rebeccapurple;
+    margin:0 auto;
+    box-sizing:border-box;
+    border-radius:30px;
+    position:relative;
+    display:block;
+}
+#navbar{
+    padding:40px;   
+    float:left;
+}
+ #navbar a{
+    text-decoration:none;
+     color:white;
+    margin:5px;
+     text-shadow:1px 1px black;
+}
+#navbar a:hover{
+    color:lightblue;
+}
+
+#logo img{
+    width:300px;
+    
+    float:right;
+    padding:10px 20px
+   
+}
