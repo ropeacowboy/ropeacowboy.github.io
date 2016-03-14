@@ -15,7 +15,7 @@ a{
     width:1000px;
     background-color:rebeccapurple;
     margin:0 auto;
-    min-height:800px;
+    min-height:1000px;
     border-radius:30px;
     position:relative;
 }
@@ -116,4 +116,25 @@ a{
     right:43%;
     margin:40px;
     
+}
+#content{
+    background-color:#ecb3ff;
+    width:900px;
+    margin:0 auto;
+    padding:40px;
+    border-radius:10px;
+}
+#content p{
+    font-family:'Courier', monospace;
+}
+h1{
+    margin-bottom:40px;
+    color:lightcyan;
+}
+p{
+    margin-bottom:25px;
+    font-size:25px;
+    color:rebeccapurple;
+    font-weight:600;
+    text-indent:30px;
 }

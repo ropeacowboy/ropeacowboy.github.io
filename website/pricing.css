@@ -165,6 +165,7 @@ a{
 }
 
 #bottom{
+    clear:both;
     display:flex;
     position:relative;
     color:white;
