@@ -140,5 +140,12 @@ p{
     text-indent:30px;
 }
 #firstp img{
+    border-radius:10px;
     float:right;
+    border-radius:10px;
+}
+#secondp img{
+    border-radius:500px;
+    float:left;
+    
 }
