@@ -175,7 +175,7 @@ a{
   
 }
 #bottomtext{
-    float:right;
+    
     width:400px;
     flex:1;
  
@@ -190,10 +190,9 @@ a{
     postion:absolute;
     font-family:'Arial', sans-serif;
     right:45%;
-    bottom:0px;
+    bottom:0;
     font-weight:400;
-    margin-bottom:10px;
-    padding:8px;
+   
     
 }
 
