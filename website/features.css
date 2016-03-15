@@ -211,13 +211,18 @@ h5{
 }
 #section1{
     display: flex;
-    width:1000px;
+    position:relative;
+    width:800px;
     height:400px;
     margin:0 auto;
+    border-radius:20px;
 }
-.feature
-#section1{
+
+#section1 .feature{
     background-color:pink;
     flex:1;
   
+}
+#section1 img{
+    border-radius:30px;
 }
