@@ -21,6 +21,7 @@ a{
 
 #container{
     width:1000px;
+    min-height:800px;
     background-color:rebeccapurple;
     margin:0 auto;
     box-sizing:border-box;
