@@ -170,7 +170,7 @@ a{
 #bottom a{
     text-decoration:none;
 }
-#bottomtext{
+#bottom{
     text-align:center;
     margin:0 auto;
     float:none;
@@ -179,16 +179,12 @@ a{
     max-width:300px;
     margin:40px;
 }
-#bottomtext h4{
+#bottom h4{
     color:lightcyan;
     font-family:cursive;
     text-shadow:none;
 }
-#bottom img{
-    float:none;
-    margin:40px;
-    border-radius:10px;
-}
+
 #footer{
     text-align:center;
     font-family:'Arial', sans-serif;
