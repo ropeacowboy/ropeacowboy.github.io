@@ -135,7 +135,7 @@ a{
     left:0;
     top:600px;*/
     width:100%;
-    min-height:350px;
+    min-height:250px;
     background-color:rebeccapurple;
     margin:0 auto;
 
@@ -218,6 +218,7 @@ h5{
     background-color:lightskyblue;
     border-bottom-right-radius:0px;
     border-bottom-left-radius:0px;
+    padding-top:40px;
 }
 
 #section1 .feature{
@@ -273,4 +274,9 @@ h5{
 #banner h2{
     text-align:center;
     margin:20px;
+    margin-bottom:60px;
+}
+#awkwardtext{
+    margin:60px;
+    text-align:center;
 }
