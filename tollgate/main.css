@@ -45,12 +45,31 @@ h1,h2,h3,h4,h5,h6,p{
     color:white;
 }
 #contact{
-    margin:40px;
+    position:relative;
+    margin:30px;
     font-family:'Tahoma','Arial Black', sans-serif;
+    background-color:ivory;
+    padding:15px;
+    border:2px dotted;
+    border-color:brown;
+    border-radius:5px;
 }
 #contact p{
     font-weight:bold;
     padding-left:10px;
     margin:.3em;
     font-size;
+    text-align:center;
+}
+#contact p em{
+    color:red;
+    font-style:normal;
+    font-weight:bold; 
+    
+}
+#contact h2{
+    text-align:center; 
+}
+#contact table{
+    width:100%;
 }
