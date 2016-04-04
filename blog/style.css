@@ -1,5 +1,5 @@
 body{
-    background-color:black;
+    background-color:darkgrey;
     color:blueviolet;
     font-family:'Helvetica', sans-serif;
     font-weight:bold;
@@ -10,22 +10,28 @@ h1,h2,h3{
 }
 
 #container{
+    background-color:black;
     width:1000px;
     margin:0 auto;
+    height:100vh;
+    border-radius:5px; 
+    
  
 }
 
 header{
     color:white;
-    font-weight:bolder
-}
-
-nav a{
+    font-weight:bolder;
+    text-align:center; 
+    padding:20px;
     
-    display:inline;
-    padding:10px;
+}
+table{
+    width:900px;
+    margin:0 auto;
 }
 
+/*
 <<<<<<< HEAD
 #listnav li{
     display:inline-block;
@@ -40,10 +46,12 @@ nav li{
     text-decoration:none;
 >>>>>>> origin/master
 }
+    */
 
+    /*
 #content{
     border-left:1px solid;
     border-right:1px solid;
     border-color:#151515;
     min-height: 800px;
-}
+} */
