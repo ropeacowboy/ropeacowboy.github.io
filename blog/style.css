@@ -1,5 +1,5 @@
 body{
-    background-color:darkgrey;
+    background-color:	 #3f4040;
     color:blueviolet;
     font-family:'Helvetica', sans-serif;
     font-weight:bold;
@@ -20,7 +20,7 @@ h1,h2,h3{
 }
 
 header{
-    color:white;
+    color:lightcyan;
     font-weight:bolder;
     text-align:center; 
     padding:20px;
@@ -29,6 +29,11 @@ header{
 table{
     width:900px;
     margin:0 auto;
+}
+
+table td a{
+    text-decoration:none;
+    color:white;
 }
 
 /*
