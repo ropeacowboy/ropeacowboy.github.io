@@ -29,13 +29,14 @@ header{
 table{
     width:900px;
     margin:0 auto;
+    font-family:'Geneva','Arial', sans-serif;
     
 }
 
-table td a{
+table/* td*/ a{
     text-decoration:none;
     color:white;
-    font-family:'Tahoma',sans-serif;
+  
 }
 
 #content p{
