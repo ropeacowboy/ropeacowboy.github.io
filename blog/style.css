@@ -29,11 +29,18 @@ header{
 table{
     width:900px;
     margin:0 auto;
+    
 }
 
 table td a{
     text-decoration:none;
     color:white;
+    font-family:'Tahoma',sans-serif;
+}
+
+#content p{
+    margin:40px;
+    text-indent:10px;
 }
 
 /*
