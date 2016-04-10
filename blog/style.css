@@ -22,22 +22,33 @@ h1,h2,h3{
 }
 
 header{
-    color:ghostwhite;
+    color:#ccc4d4;
     font-weight:bolder;
     text-align:center; 
     padding:20px;
     background-color: #3f4040;
-    border-radius-top-left:5px;
-    border-radius-top-right:5px;
+    border-radius:5px;
+    border-bottom-left-radius:0px;
+    border-bottom-right-radius: 0px;
+  
+    margin-bottom:20px;
     
     
     
 }
 header h1{
-    font-size:40px;
+    font-size:50px;
     margin-bottom:10px;
     text-transform:uppercase;
+    padding:24px;
+    padding-top:8px;
+    padding-bottom:10px;
 }
+header h3{
+    font-size:22px;
+    
+}
+
 table{
     width:900px;
     margin:0 auto;
@@ -80,10 +91,12 @@ table p{
 
 #content p{
     margin:40px;
-    text-indent:20px;
+    text-indent:40px;
     font-family: 'Georgia','Courier New', 'Monaco', monospace; 
     font-size:22px;
     font-weight:500; 
+    letter-spacing:.1em;
+    word-spacing:.25em;
     
 }
 
