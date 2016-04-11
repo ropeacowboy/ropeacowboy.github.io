@@ -88,7 +88,9 @@ table p{
     color:#a862ea;
     
 }
-
+#content{
+    position:relative;
+}
 #content p{
     margin:40px;
     text-indent:40px;
@@ -97,6 +99,9 @@ table p{
     font-weight:500; 
     letter-spacing:.1em;
     word-spacing:.25em;
+    margin:2em;
+    
+
     
 }
 
