@@ -5,8 +5,10 @@ body{
     font-weight:bold;
 }
 
-h1,h2,h3{
+h1,h2,h3,p {
     margin:0;
+    padding:0px;
+    
 }
 
 #container{
@@ -92,14 +94,14 @@ table p{
     position:relative;
 }
 #content p{
-    margin:40px;
+    margin:40 0px 40px;
     text-indent:40px;
     font-family: 'Georgia','Courier New', 'Monaco', monospace; 
     font-size:22px;
     font-weight:500; 
     letter-spacing:.1em;
     word-spacing:.25em;
-    margin:2em;
+    margin:.5em 2em 0em 2em;
     
 
     
