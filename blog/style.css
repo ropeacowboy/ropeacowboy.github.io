@@ -106,10 +106,32 @@ table p{
     margin:2em;
     line-height:1.3em;
     margin:.5em 2em 0em 2em;
-    color:#cc99ff;
-
-    
+    color:#cc99ff;   
 
     
 }
+/*
+#bottom-nav{
+    position:relative;
+    margin-top:40px;
+}
+
+#bottom-nav nav{
+    text-decoration: none;
+    position: absolute;
+    bottom:0px;
+    center:500px;
+}
+#bottom-nav #copyright p{
+    position:absolute;
+    right:0px;
+    bottom
+    
+} */
+
+#footer div{
+    dispaly:inline-block;
+}
+
+
 
