@@ -15,7 +15,6 @@ h1,h2,h3,p {
     background-color:black;
     width:1000px;
     margin:0 auto;
-    height:100vh;
     min-height:900px;
     border-radius:5px; 
     position:relative;
@@ -95,6 +94,7 @@ table p{
 }
 #content{
     position:relative;
+    padding-bottom:60px;
 }
 #content p{
     margin:40 0px 40px;
@@ -107,7 +107,7 @@ table p{
     margin:2em;
     line-height:1.3em;
     margin:.5em 2em 0em 2em;
-    color:#cc99ff;   
+    color:#8c4dcb;   
 
     
 }
