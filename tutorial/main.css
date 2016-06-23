@@ -9,11 +9,15 @@ body{
 }
 #nav{
     background-color:#222;
+    margin: 0 auto;
+    
 }
 #nav_wrapper{
     width:960px;
     marign:0 auto;
     text-align: left;
+    text-align:center;
+    
 }
 #nav ul{
     list-style-type: none;
@@ -40,6 +44,9 @@ body{
 }
 #nav ul li:hover ul{
     display:block;
+    background-color:pink;
+    color:black;
+    
 }
 #nav ul ul{
     display: none;

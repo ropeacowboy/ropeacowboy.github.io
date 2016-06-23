@@ -1,0 +1,34 @@
+<!doctype HTML>
+<html>
+    <head>
+        <title>Horse Color Sim</title>
+        <script>
+           
+            function genCoats() {
+                var base = ["red","black","bay"];
+                var vary = ["light","dark","sooty","white"];
+                var dilute = ["cream","dun","roan"];
+                var pattern = ["overo", "tobiano","apblank","apspot","nopattern","nopattern","nopattern"];
+                
+                var baseResult = Math.floor(Math.random() * base.length);
+                var varyResult = Math.floor(Math.random() * vary.length);
+                var diluteResult = Math.floor(Math.random() * dilute.length);
+                var patternResult = Math.floor(Math.random() * pattern.length);
+                
+                var phrase = "Congrats! You have won a foal with a " + base[baseResult] "base coat a" + vary[varyResult] "variation with a" + dilute[diluteResult] "dilution and " + pattern[patternResult] ".";
+                phraseElement = document.getElementById("phrase");
+                phraseElement.innerHTML = phrase;
+            }
+            window.onload = genCoats;
+            document.write(phrase);
+        </script>
+    </head>
+    <body>
+        <h1>
+            Welcome to the horse breeding color simulator!
+        </h1>
+        <p id="phrase">
+        
+        </p>
+    </body>
+</html>
