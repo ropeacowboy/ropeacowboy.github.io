@@ -1,0 +1,132 @@
+body{
+    background-color:darkred;
+    
+    font-family:cursive;
+    color:#330000;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:0 auto;
+    background-image:url(leaves2.jpg)
+    
+}
+#container{
+    position:relative;
+    margin:0 auto;
+    width:1400px;
+    min-height:1600px; 
+    background-color:papayawhip;
+    border-radius:8px;
+    box-shadow: 0px 0px 20px 10px;
+    
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin:0px;
+    padding:0px;
+}
+#nav{
+    margin:0 auto;
+    width:900px;
+    height:60px;
+    padding-top:20px;
+}
+#nav .button{
+    display:inline-block;
+    
+}
+.button{
+    text-align:center;
+    
+}
+.button a{
+    text-decoration:none;
+    color:#f6f0bc;
+    padding:20px;
+    padding-top:50px;
+    margin-top:10px;
+    background-color: #662200;
+    font-family: 'Bangers', cursive;
+    font-size:24px;
+    border-radius:5px;
+    background: url(wood.jpg);
+    background-size:300px;
+}
+.button a:hover{
+    color:white;
+}
+#contact{
+    position:relative;
+    margin:30px;
+    font-family:'Tahoma','Arial Black', sans-serif;
+    background-color:ivory;
+    padding:15px;
+    border:2px dotted;
+    border-color:brown;
+    border-radius:5px;
+}
+#contact p{
+    font-weight:bold;
+    padding-left:10px;
+    margin:.3em;
+    font-size;
+    text-align:center;
+}
+#contact p em{
+    color:red;
+    font-style:normal;
+    font-weight:bold; 
+    
+}
+#contact h2{
+    text-align:center; 
+}
+#contact table{
+    width:100%;
+}
+#footer {
+    position:absolute;
+    bottom:5px;
+    width:100%;
+    text-align:center;
+
+}
+#footer a{
+    text-decoration:none;
+    color:orangered;
+    font-size:18px;
+    font-weight:600;
+}
+#footer a:hover{
+    color:darkred;
+}
+
+#content h1{
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    font-weight:800px;
+    font-style:italic;
+    font-size:50px;
+    margin-bottom:60px;
+}
+#content p{
+    font-family: 'Shadows Into Light', cursive;
+    font-size:25px;
+    font-weight:bold;
+    letter-spacing:.025em;
+    padding: 12px 80px;
+    text-indent:0px;
+    position:relative;
+}
+#content a{
+    color:maroon;
+}
+#content a:hover{
+    color:indianred;
+}
+
+img{
+    border-radius:20px;
+    float:left;
+    margin:0px 20px 20px 80px;
+    margin-bottom:10px;
+    
+}

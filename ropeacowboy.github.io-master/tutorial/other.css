@@ -1,0 +1,25 @@
+ul li .button a{
+    text-decoration:none;
+    color:#f6f0bc;
+    padding:20px;
+    padding-top:50px;
+    margin-top:10px;
+    background-color: #662200;
+    font-family: 'Bangers', cursive;
+    font-size:24px;
+    border-radius:5px;
+    background: url(wood.jpg);
+    background-color:maroon;
+    background-size:300px;
+    
+}
+ul li .button a:hover{
+    color:white;
+}
+ul li .button{
+    display:inline-block;
+}
+ul{
+    list-style-type:none;
+    display:inline-block;
+}

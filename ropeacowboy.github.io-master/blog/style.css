@@ -1,0 +1,169 @@
+body{
+    background-color: #ccc4d4;
+    color:blueviolet;
+    font-family:'Helvetica', sans-serif;
+    font-weight:bold;
+}
+
+h1,h2,h3,p {
+    margin:0;
+    padding:0px;
+    
+}
+
+#container{
+    background-color:black;
+    width:1000px;
+    margin:0 auto;
+    min-height:900px;
+    border-radius:5px; 
+    position:relative;
+    
+    
+ 
+}
+
+header{
+    color:#ccc4d4;
+    font-weight:bolder;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align:center; 
+    padding:20px;
+    background-color: #3f4040;
+    border-radius:5px;
+    border-bottom-left-radius:0px;
+    border-bottom-right-radius: 0px;
+  
+    margin-bottom:20px;
+    
+    
+    
+}
+header h1{
+    font-size:50px;
+    margin-bottom:10px;
+    text-transform:uppercase;
+    padding:24px;
+    padding-top:8px;
+    padding-bottom:10px;
+}
+header h3{
+    font-size:22px;
+    
+}
+
+table{
+    width:900px;
+    margin:0 auto;
+    font-family:'Geneva','Arial', sans-serif;
+    background-color:ghostwhite;
+    padding:10px;
+    padding-left:20px;
+    border-radius:7px;
+    position:relative;
+    margin-bottom:20px;
+}
+
+table/* td*/ a{
+    text-decoration:none;
+    color:darkviolet;
+    text-align:center;
+  
+}
+table p:hover{
+    color:#3f4040;
+}
+table h2:hover{
+    color:black;
+}
+table h2{
+    text-align:center;
+    font-weight:bold;
+    font-color:#410f70; 
+    border:1px solid;
+    margin-right:0px;
+    text-decoration:hover:color:
+    
+}
+table p{
+    padding:0px;
+    margin:0px;
+    text-align:center;
+    color:#a862ea;
+    
+}
+#content{
+    position:relative;
+    padding-bottom:60px;
+}
+#content p{
+    margin:40 0px 40px;
+    text-indent:40px;
+    font-family: 'Georgia','Courier New', 'Monaco', monospace; 
+    font-size:22px;
+    font-weight:500; 
+    letter-spacing:.1em;
+    word-spacing:.25em;
+    margin:2em;
+    line-height:1.3em;
+    margin:.5em 2em 0em 2em;
+    color:#8c4dcb;   
+
+    
+}
+/*
+#bottom-nav{
+    position:relative;
+    margin-top:40px;
+}
+
+#bottom-nav nav{
+    text-decoration: none;
+    position: absolute;
+    bottom:0px;
+    center:500px;
+}
+#bottom-nav #copyright p{
+    position:absolute;
+    right:0px;
+    bottom
+    
+} */
+#footer{
+    display:flex:
+    position:relative;
+    
+    width:100%;
+    
+    
+
+}
+#footer div{
+    display:inline-block;
+    
+}
+#bottom-nav{
+   /* background-color:aqua;*/
+    position:absolute;
+    font-size:20px;
+    right:35%;
+    bottom:5px;
+    
+}
+#bottom-nav nav a{
+    text-decoration:none;
+    color:ghostwhite;
+}
+#bottom-nav nav a:hover{
+    color:#ccc4d4;
+}
+#copyright{
+    color:gray;
+    font-size:15px;
+    position:absolute;
+    right:5px;
+    bottom:5px;
+    
+    
+}
+

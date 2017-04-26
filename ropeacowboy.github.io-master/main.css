@@ -1,0 +1,63 @@
+body {
+     background-color: lightcyan;
+    font-family: 'Arial Black','Arial Bold',sans-serif;
+    color: white; 
+    
+}
+
+
+#content {  
+    background-color:darkcyan;
+    width: 900px;
+    padding:20px 10px 30px;
+    color:white;
+    border:2px solid;
+    border-color:white;
+   
+}
+
+
+#paragraphs {
+
+    background-color:aquamarine;
+    color:darkblue;
+    padding: 8px; 
+    border: 2px dashed; 
+    border-color:darkblue; 
+
+    }
+
+p {
+    text-indent:10px;
+
+}
+
+nav{
+    background-color:red;
+    font-family:'Arial Black','Arial Bold',sans-serif;
+    font-size:36px;
+    color:aqua; 
+}
+
+nav a{
+    text-decoration:none;
+    bakground color:darkturquoise;
+    color:paleturquoise
+}
+
+nav a:hover{
+    background-color:paleturquoise
+    color:white;
+}
+
+header{
+    padding: 20px; 
+    color:white;
+}
+
+
+
+footer{
+    background-color: yellow;
+    color:green;
+}
